@@ -9,8 +9,9 @@ import java.util.Stack;
 public class Run {
     public static Map<String, Integer> dictionary = new HashMap<String, Integer>();
     public static Map<String, Integer> combinationDictionary = new HashMap<String, Integer>();
-    public static File dict = new File("D:Caviar//dictionary.txt");
-    public static File combinationDict = new File("D:Caviar//combinationDictionary.txt");
+    
+    public static File dict = new File("data/dictionary.txt");
+    public static File combinationDict = new File("data/combinationDictionary.txt");
 
     public static void main(String[] args) throws IOException {
         Functions.initialise();
