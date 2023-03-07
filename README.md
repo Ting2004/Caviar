@@ -1,6 +1,10 @@
 # Caviar
 a Chinese word deliminator named **Caviar** who does a stupid job.
-![ff7f61e990db29fdbbaef8f4f91f203](https://user-images.githubusercontent.com/88258612/223310511-9588ac95-ec5a-4444-8c6e-a258719d561e.png)
+
+
+(Caviar) 请输入中文后回车:<br />
+(User) 你好笨<br />
+(Caviar) [你好, 笨]<br />
 
 
 ## About Caviar
